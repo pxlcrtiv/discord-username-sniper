@@ -1,0 +1,8 @@
+node_modules
+.DS_Store
+tokens.txt
+usernames.txt
+config.json
+.env
+*.log
+GEMINI.md
