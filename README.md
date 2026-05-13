@@ -69,9 +69,6 @@ npm install
 npm start
 ```
 
-## Should I commit `package-lock.json`?
-**Yes.** Committing `package-lock.json` is best practice for any Node.js project. It ensures that your friend (and anyone else who runs this) uses the exact same dependency versions as you. Without it, `npm install` might download newer versions of a library that could break your optimized code.
-=======
 node index.js
 ```
 
